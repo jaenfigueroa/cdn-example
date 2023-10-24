@@ -16,7 +16,7 @@
       "type": "CODE_SMEEL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "3",
@@ -61,7 +61,7 @@
       "type": "CODE_SMEEL",
       "severity": "MAYOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "8",
@@ -79,7 +79,7 @@
       "type": "CODE_SMEEL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "10",
@@ -97,7 +97,7 @@
       "type": "SECURITY_HOSTPOT",
       "severity": "MAYOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "12",
@@ -115,7 +115,7 @@
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "14",
@@ -142,7 +142,7 @@
       "type": "CODE_SMEEL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "17",
@@ -169,7 +169,7 @@
       "type": "CODE_SMEEL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "20",
@@ -205,7 +205,7 @@
       "type": "CODE_SMEEL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "24",
@@ -232,7 +232,7 @@
       "type": "CODE_SMEEL",
       "severity": "MAYOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "27",
@@ -259,7 +259,7 @@
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     },
     {
       "id": "30",
@@ -286,7 +286,7 @@
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "20/10/10"
     }
   ]
 }
