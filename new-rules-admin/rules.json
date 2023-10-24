@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -65,7 +65,7 @@
     },
     {
       "id": "8",
-      "code": "javascript:55730",
+      "code": "html:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -83,7 +83,7 @@
     },
     {
       "id": "10",
-      "code": "javascript:55730",
+      "code": "html:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -128,7 +128,7 @@
     },
     {
       "id": "15",
-      "code": "javascript:55730",
+      "code": "html:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -155,7 +155,7 @@
     },
     {
       "id": "18",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -164,7 +164,7 @@
     },
     {
       "id": "19",
-      "code": "javascript:55730",
+      "code": "html:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -191,7 +191,7 @@
     },
     {
       "id": "22",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -218,7 +218,7 @@
     },
     {
       "id": "25",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -254,7 +254,7 @@
     },
     {
       "id": "29",
-      "code": "javascript:55730",
+      "code": "html:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
@@ -281,7 +281,7 @@
     },
     {
       "id": "32",
-      "code": "javascript:55730",
+      "code": "css:55730",
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
