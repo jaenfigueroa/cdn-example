@@ -7,7 +7,7 @@
       "type": "BUG",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "type": "CODE_SMELL",
       "severity": "INFO",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "type": "VULNERABILITY",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "5",
@@ -43,7 +43,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "6",
@@ -52,7 +52,7 @@
       "type": "BUG",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "7",
@@ -61,7 +61,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "8",
@@ -70,7 +70,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "INFO",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "9",
@@ -79,7 +79,7 @@
       "type": "CODE_SMELL",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "10",
@@ -88,7 +88,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "11",
@@ -97,7 +97,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "12",
@@ -106,7 +106,7 @@
       "type": "CODE_SMELL",
       "severity": "INFO",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "13",
@@ -115,7 +115,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "14",
@@ -124,7 +124,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "15",
@@ -133,7 +133,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "16",
@@ -142,7 +142,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "17",
@@ -151,7 +151,7 @@
       "type": "VULNERABILITY",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "18",
@@ -160,7 +160,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "19",
@@ -169,7 +169,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "20",
@@ -178,7 +178,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "21",
@@ -187,7 +187,7 @@
       "type": "BUG",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "22",
@@ -196,7 +196,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "23",
@@ -205,7 +205,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "24",
@@ -214,7 +214,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "25",
@@ -223,7 +223,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "26",
@@ -232,7 +232,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "27",
@@ -241,7 +241,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "28",
@@ -250,7 +250,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "29",
@@ -259,7 +259,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "30",
@@ -268,7 +268,7 @@
       "type": "VULNERABILITY",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "31",
@@ -277,7 +277,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "10/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "32",
@@ -286,7 +286,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "20/10/10"
+      "date": "202-10-20"
     },
     {
       "id": "33",
@@ -295,7 +295,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "05/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "34",
@@ -304,7 +304,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "06/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "35",
@@ -313,7 +313,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "07/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "36",
@@ -322,7 +322,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "08/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "37",
@@ -331,7 +331,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "09/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "38",
@@ -340,7 +340,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "10/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "39",
@@ -349,7 +349,7 @@
       "type": "VULNERABILITY",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "11/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "40",
@@ -358,7 +358,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "12/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "41",
@@ -367,7 +367,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "13/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "42",
@@ -376,7 +376,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "14/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "43",
@@ -385,7 +385,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "15/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "44",
@@ -394,7 +394,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "16/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "45",
@@ -403,7 +403,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "17/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "46",
@@ -412,7 +412,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "18/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "47",
@@ -421,7 +421,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "19/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "48",
@@ -430,7 +430,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "20/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "49",
@@ -439,7 +439,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "21/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "50",
@@ -448,7 +448,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "DESACTIVE",
-      "date": "22/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "51",
@@ -457,7 +457,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "23/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "52",
@@ -466,7 +466,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "24/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "53",
@@ -475,7 +475,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "25/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "54",
@@ -484,7 +484,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "26/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "55",
@@ -493,7 +493,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "27/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "56",
@@ -502,7 +502,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "28/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "57",
@@ -511,7 +511,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "29/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "58",
@@ -520,7 +520,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "30/11/23"
+      "date": "202-10-20"
     },
     {
       "id": "59",
@@ -529,7 +529,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "01/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "60",
@@ -538,7 +538,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "02/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "61",
@@ -547,7 +547,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "03/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "62",
@@ -556,7 +556,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "04/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "63",
@@ -565,7 +565,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "05/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "64",
@@ -574,7 +574,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "06/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "65",
@@ -583,7 +583,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "07/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "66",
@@ -592,7 +592,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "08/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "67",
@@ -601,7 +601,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "09/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "68",
@@ -610,7 +610,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "10/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "69",
@@ -619,7 +619,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "11/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "70",
@@ -628,7 +628,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "12/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "71",
@@ -637,7 +637,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "13/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "72",
@@ -646,7 +646,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "14/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "73",
@@ -655,7 +655,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "15/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "74",
@@ -664,7 +664,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "16/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "75",
@@ -673,7 +673,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "17/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "76",
@@ -682,7 +682,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "18/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "77",
@@ -691,7 +691,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "19/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "79",
@@ -700,7 +700,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "21/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "80",
@@ -709,7 +709,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "22/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "81",
@@ -718,7 +718,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "23/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "82",
@@ -727,7 +727,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "24/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "83",
@@ -736,7 +736,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "25/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "84",
@@ -745,7 +745,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "26/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "85",
@@ -754,7 +754,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "27/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "86",
@@ -763,7 +763,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "28/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "87",
@@ -772,7 +772,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "DESACTIVE",
-      "date": "29/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "88",
@@ -781,7 +781,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "30/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "89",
@@ -790,7 +790,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "31/12/23"
+      "date": "202-10-20"
     },
     {
       "id": "90",
@@ -799,7 +799,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "DESACTIVE",
-      "date": "01/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "91",
@@ -808,7 +808,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "02/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "92",
@@ -817,7 +817,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "03/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "93",
@@ -826,7 +826,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "04/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "94",
@@ -835,7 +835,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "05/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "96",
@@ -844,7 +844,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "06/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "97",
@@ -853,7 +853,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "07/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "98",
@@ -862,7 +862,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "08/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "99",
@@ -871,7 +871,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "09/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "100",
@@ -880,7 +880,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "10/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "101",
@@ -889,7 +889,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "11/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "102",
@@ -898,7 +898,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "12/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "103",
@@ -907,7 +907,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "13/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "104",
@@ -916,7 +916,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "14/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "105",
@@ -925,7 +925,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "15/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "106",
@@ -934,7 +934,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "DESACTIVE",
-      "date": "16/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "107",
@@ -943,7 +943,7 @@
       "type": "CODE_SMELL",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "17/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "108",
@@ -952,7 +952,7 @@
       "type": "BUG",
       "severity": "MAJOR",
       "state": "ACTIVE",
-      "date": "18/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "109",
@@ -961,7 +961,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "ACTIVE",
-      "date": "19/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "110",
@@ -970,7 +970,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
       "state": "DESACTIVE",
-      "date": "20/11/24"
+      "date": "202-10-20"
     },
     {
       "id": "111",
@@ -979,7 +979,7 @@
       "type": "CODE_SMELL",
       "severity": "MINOR",
       "state": "ACTIVE",
-      "date": "21/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "112",
@@ -988,7 +988,7 @@
       "type": "BUG",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "22/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "113",
@@ -997,7 +997,7 @@
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
       "state": "DESACTIVE",
-      "date": "23/01/24"
+      "date": "202-10-20"
     },
     {
       "id": "114",
@@ -1006,7 +1006,7 @@
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
       "state": "ACTIVE",
-      "date": "24/01/24"
+      "date": "202-10-20"
     }
   ]
 }
