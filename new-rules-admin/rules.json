@@ -556,6 +556,455 @@
         "severity": "MAJOR",
         "state": "ACTIVE",
         "date": "04/12/23"
+    }, {
+        "id": "63",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "05/12/23
+    },
+    {
+        "id": "64",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "06/12/23"
+    },
+    {
+        "id": "65",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "07/12/23"
+    },
+    {
+        "id": "66",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "08/12/23"
+    },
+    {
+        "id": "67",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "09/12/23"
+    },
+    {
+        "id": "68",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "10/12/23"
+    },
+    {
+        "id": "69",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "11/12/23"
+    },
+    {
+        "id": "70",
+        "code": "html:54321",
+        "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "12/12/23"
+    },
+    {
+        "id": "71",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "13/12/23"
+    },
+    {
+        "id": "72",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "14/12/23"
+    },
+    {
+        "id": "73",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "15/12/23"
+    },
+    {
+        "id": "74",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "16/12/23"
+    },
+    {
+        "id": "75",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "17/12/23"
+    },
+    {
+        "id": "76",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "18/12/23"
+    },
+    {
+        "id": "77",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "19/12/23"
+    },
+    {
+        "id": "79",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "21/12/23"
+    },
+    {
+        "id": "80",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "22/12/23"
+    },
+    {
+        "id": "81",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "23/12/23"
+    },
+    {
+        "id": "82",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "24/12/23"
+    },
+    {
+        "id": "83",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "25/12/23"
+    },
+    {
+        "id": "84",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "26/12/23"
+    },
+    {
+        "id": "85",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "27/12/23"
+    },
+    {
+        "id": "86",
+        "code": "html:54321",
+        "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "28/12/23"
+    },
+    {
+        "id": "87",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "29/12/23"
+    },
+    {
+        "id": "88",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "30/12/23"
+    },
+    {
+        "id": "89",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "31/12/23"
+    },
+    {
+        "id": "90",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "01/01/24"
+    },
+    {
+        "id": "91",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "02/01/24"
+    },
+    {
+        "id": "92",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "03/01/24"
+    },
+    {
+        "id": "93",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "04/01/24"
+    },
+    {
+        "id": "94",
+        "code": "html:54321",
+        "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "05/01/24"
+    },
+    {
+        "id": "96",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "06/01/24"
+    },
+    {
+        "id": "97",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "07/01/24"
+    },
+    {
+        "id": "98",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "08/01/24"
+    },
+    {
+        "id": "99",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "09/01/24"
+    },
+    {
+        "id": "100",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "10/01/24"
+    },
+    {
+        "id": "101",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "11/01/24"
+    },
+    {
+        "id": "102",
+        "code": "html:54321",
+        "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "12/01/24"
+    },
+    {
+        "id": "103",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "13/01/24"
+    },
+    {
+        "id": "104",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "14/01/24"
+    },
+    {
+        "id": "105",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "15/01/24"
+    },
+    {
+        "id": "106",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "16/01/24"
+    },
+    {
+        "id": "107",
+        "code": "java:12345",
+        "description": "Nuevo problema de tipo CODE_SMELL en Java.",
+        "type": "CODE_SMELL",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "17/01/24"
+    },
+    {
+        "id": "108",
+        "code": "python:67890",
+        "description": "Problema de tipo BUG en Python.",
+        "type": "BUG",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "18/01/24"
+    },
+    {
+        "id": "109",
+        "code": "javascript:12345",
+        "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "19/01/24"
+    },
+    {
+        "id": "110",
+        "code": "html:54321",
+        "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "MAJOR",
+        "state": "ACTIVE",
+        "date": "20/01/24"
+    },
+    {
+        "id": "111",
+        "code": "php:23456",
+        "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
+        "type": "CODE_SMELL",
+        "severity": "MINOR",
+        "state": "ACTIVE",
+        "date": "21/01/24"
+    },
+    {
+        "id": "112",
+        "code": "java:89012",
+        "description": "Problema de tipo BUG en Java.",
+        "type": "BUG",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "22/01/24"
+    },
+    {
+        "id": "113",
+        "code": "python:34567",
+        "description": "Nuevo problema de tipo VULNERABILITY en Python.",
+        "type": "VULNERABILITY",
+        "severity": "CRITICAL",
+        "state": "ACTIVE",
+        "date": "23/01/24"
+    },
+    {
+        "id": "114",
+        "code": "css:89012",
+        "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
+        "type": "SECURITY_HOTSPOT",
+        "severity": "BLOCKER",
+        "state": "ACTIVE",
+        "date": "24/01/24"
     }
   ]
 }
