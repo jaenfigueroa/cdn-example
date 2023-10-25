@@ -3,7 +3,7 @@
     {
       "id": "1",
       "code": "javascript:55730",
-      "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
+      "description": "Disabling Stric-Transport Security Policy is security-sensitive",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
       "state": "DESACTIVE",
