@@ -57,7 +57,7 @@
     {
       "id": "7",
       "code": "php:55730",
-      "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
+      "description": "Lorem Ipsum es simplemente el texto de relleno dxto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMEEL",
       "severity": "MAYOR",
       "state": "DESACTIVE",
@@ -93,7 +93,7 @@
     {
       "id": "11",
       "code": "javascript:55730",
-      "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
+      "description": "Lorem Ipsum es elleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOSTPOT",
       "severity": "MAYOR",
       "state": "ACTIVE",
