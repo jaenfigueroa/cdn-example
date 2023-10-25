@@ -3,7 +3,7 @@
     {
       "id": "1",
       "code": "javascript:55730",
-      "description": "Disabling Stric-Transport Security Policy is security-sensitive",
+      "description": "Disabling Stric-Transport Security Policy is security-sensitive.",
       "type": "SECURITY_HOSTPOT",
       "severity": "MINOR",
       "state": "DESACTIVE",
