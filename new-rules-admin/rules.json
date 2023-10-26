@@ -6,7 +6,7 @@
       "description": "Disablcing Stric-Transport Security Policy is security-sensitive.",
       "type": "BUG",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "INFO",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -24,7 +24,7 @@
       "description": "Disabling Stric-Transport Security Policy is security-sensitive Eestándar de las industrias desde el año 1500,",
       "type": "VULNERABILITY",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -42,7 +42,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -51,7 +51,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las estándar de las industrias desde el año 1500,",
       "type": "BUG",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -60,7 +60,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno dxto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -69,7 +69,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "INFO",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -78,7 +78,7 @@
       "description": "Lorem Ipsum es Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -87,7 +87,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -96,7 +96,7 @@
       "description": "Lorem Ipsum es elleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -105,7 +105,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "INFO",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -114,7 +114,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -123,7 +123,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -132,7 +132,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -141,7 +141,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -150,7 +150,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas relleno estándar de las industrias desde el año 1500,",
       "type": "VULNERABILITY",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -159,7 +159,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -168,7 +168,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -177,7 +177,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -186,7 +186,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "BUG",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -195,7 +195,7 @@
       "description": "Lorem Ipsum es simplemente el  el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -204,7 +204,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -213,7 +213,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -222,7 +222,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -231,7 +231,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -240,7 +240,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -249,7 +249,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -258,7 +258,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -267,7 +267,7 @@
       "description": "Lorem Ipsum es simplemente el texto de ha el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "VULNERABILITY",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -276,7 +276,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha so el texto de relleno estándar de las industrias desde el año 1500,",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -285,7 +285,7 @@
       "description": "Lorem Ipsum es simplemente el texto de relleno de las estándar de las industrias desde el año 1500,",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -294,7 +294,7 @@
       "description": "Este es un nuevo problema de tipo BUG.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -303,7 +303,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Python.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -312,7 +312,7 @@
       "description": "Problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -321,7 +321,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -330,7 +330,7 @@
       "description": "Nuevo problema de tipo BUG en PHP.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -339,7 +339,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en JavaScript.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -348,7 +348,7 @@
       "description": "Problema de tipo VULNERABILITY en CSS.",
       "type": "VULNERABILITY",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -357,7 +357,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en Java.",
       "type": "SECURITY_HOTSPOT",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -366,7 +366,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -375,7 +375,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -384,7 +384,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -393,7 +393,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -402,7 +402,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -411,7 +411,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -420,7 +420,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -429,7 +429,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -438,7 +438,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -447,7 +447,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -456,7 +456,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -465,7 +465,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -474,7 +474,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -483,7 +483,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -492,7 +492,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -501,7 +501,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -510,7 +510,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -519,7 +519,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -528,7 +528,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -537,7 +537,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -546,7 +546,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -555,7 +555,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -564,7 +564,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -573,7 +573,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -582,7 +582,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -591,7 +591,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -600,7 +600,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -609,7 +609,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -618,7 +618,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -627,7 +627,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -636,7 +636,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -645,7 +645,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -654,7 +654,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -663,7 +663,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -672,7 +672,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -681,7 +681,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -690,7 +690,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -699,7 +699,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -708,7 +708,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -717,7 +717,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -726,7 +726,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -735,7 +735,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -744,7 +744,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -753,7 +753,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -762,7 +762,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -771,7 +771,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -780,7 +780,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -789,7 +789,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -798,7 +798,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -807,7 +807,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -816,7 +816,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -825,7 +825,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -834,7 +834,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -843,7 +843,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -852,7 +852,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -861,7 +861,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -870,7 +870,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -879,7 +879,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -888,7 +888,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -897,7 +897,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -906,7 +906,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -915,7 +915,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -924,7 +924,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -933,7 +933,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -942,7 +942,7 @@
       "description": "Nuevo problema de tipo CODE_SMELL en Java.",
       "type": "CODE_SMELL",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -951,7 +951,7 @@
       "description": "Problema de tipo BUG en Python.",
       "type": "BUG",
       "severity": "MAJOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -960,7 +960,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en JavaScript.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -969,7 +969,7 @@
       "description": "Nuevo problema de tipo SECURITY_HOTSPOT en HTML.",
       "type": "SECURITY_HOTSPOT",
       "severity": "MAJOR",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -978,7 +978,7 @@
       "description": "Este es un nuevo problema de tipo CODE_SMELL en PHP.",
       "type": "CODE_SMELL",
       "severity": "MINOR",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -987,7 +987,7 @@
       "description": "Problema de tipo BUG en Java.",
       "type": "BUG",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -996,7 +996,7 @@
       "description": "Nuevo problema de tipo VULNERABILITY en Python.",
       "type": "VULNERABILITY",
       "severity": "CRITICAL",
-      "state": false,
+      "state": "DESACTIVE",
       "date": "2023-10-20"
     },
     {
@@ -1005,7 +1005,7 @@
       "description": "Problema de tipo SECURITY_HOTSPOT en CSS.",
       "type": "SECURITY_HOTSPOT",
       "severity": "BLOCKER",
-      "state": true,
+      "state": "ACTIVE",
       "date": "2023-10-20"
     }
   ]
